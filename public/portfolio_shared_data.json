@@ -1,0 +1,59 @@
+{
+    "basic_info": {
+      "name": "Sylvain Verdy",
+      "titles": [ "Phd Student", "Gamer", "DJ"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/SylvainVerdy",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/sylvain_verdy/",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.gif"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "80"
+        },
+        {
+          "name": "Pytorch",
+          "class": "devicon-pytorch-original",
+          "level": "90"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "75"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        }
+      ]
+    }
+  }

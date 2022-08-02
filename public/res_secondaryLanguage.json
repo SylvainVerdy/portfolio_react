@@ -1,0 +1,116 @@
+{
+    "basic_info": {
+      "description_header": "Bonjour à toi ",
+      "description": "👋 Je m'appelle Sylvain Verdy. Je travaille en tant que doctorant chez NXP, je suis un joueur et un DJ à mes heures perdues. Je travaille sur la compréhension du langage parlé. Je travaille principalement sur la détection d'intentions à partir de la parole (Speech To Intent). J'espère que vous apprécierez mes quelques démos. Faites-moi savoir si vous avez des questions. Merci 💜.  ",
+      "section_name": {
+        "about": "A propos de moi",
+        "projects": "Mes projets",
+        "skills": "Competences",
+        "experience": "Mes experiences"
+      }
+    },
+    "projects": [
+      {
+        "title": "Analyse de tweet",
+        "startDate": "2020",
+        "description": "L'objectif du projet était d'analyser les tweets des personnes avec des modèles qui ont été appris sur la tâche d'analyse des sentiments.",
+        "images": [
+          "images/portfolio/projet_twitter/index_twitter.png",
+          "images/portfolio/projet_twitter/twitter_data.png"
+        ],
+        "url": "https://github.com/SylvainVerdy/Play-On-Twitter-data---NLP",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Photography",
+        "startDate": "2018",
+        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "3D Object Viewer",
+        "startDate": "2015",
+        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "DefOpenSource",
+        "title": "Front-End Developer",
+        "years": "10.2019 - obecnie",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "Serros Solutions",
+        "title": "Stażystka",
+        "years": "01.2018 - 09.2019",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "Swagger",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }
