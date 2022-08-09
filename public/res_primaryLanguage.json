@@ -13,7 +13,7 @@
       {
         "title": "Twitter analysis of tweet's",
         "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "The idea of the project was to analyze tweets from famous people, to see the impact in a social network with sentiment analysis algorithms. I used NLP models like BERT for extracting context informations from text, and LDA to get the different topic of tweets.",
         "images": [
           "images/portfolio/projet_twitter/index_twitter.png",
           "images/portfolio/projet_twitter/twitter_data.png"
@@ -21,16 +21,12 @@
         "url": "https://github.com/SylvainVerdy/Play-On-Twitter-data---NLP",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-python-plain",
+            "name": "Python"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-pytorch-original",
+            "name": "Pytorch"          
           }
         ]
       },
@@ -81,37 +77,33 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "NXP",
+        "title": "Phd Student",
+        "years": "09.2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Research"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Pytorch",
+          "Speech To Intent",
+          "Spoken Language Understanding",
+          "Neural Networks",
+          "Deep learning"          
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Thales",
+        "title": "Research Engineer - Apprentice",
+        "years": "09.2018 - 09.2020",
         "mainTech": [
-          "Angular 7/8"
+          "Research"
         ],
         "technologies": [
-          "RxJS",
+          "Natural Language Processing",
+          "Deep learning",
           "Django",
-          "PHP",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Bash"
         ]
       }
     ]
