@@ -13,7 +13,7 @@
       {
         "title": "Analyse de tweet",
         "startDate": "2020",
-        "description": "L'objectif du projet était d'analyser les tweets des personnes avec des modèles qui ont été appris sur la tâche d'analyse des sentiments.",
+        "description": "L'objectif du projet était d'analyser les tweets des personnes avec des modèles qui ont été appris sur la tâche d'analyse des sentiments. J'ai eu la chance d'utiliser des modeles de languages connus comme BERT et j'ai egalement utiliser la LDA pour extraire les sujets abordes du tweet.",
         "images": [
           "images/portfolio/projet_twitter/index_twitter.png",
           "images/portfolio/projet_twitter/twitter_data.png"
