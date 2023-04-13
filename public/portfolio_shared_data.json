@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Sylvain Verdy",
-      "titles": [ "Phd Student", "Gamer", "DJ"],
+      "titles": [ "NLP Research Engineer", "Gamer", "DJ", "Enthousiastic"],
       "social": [
         {
           "name": "github",
@@ -14,7 +14,7 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.gif"
+      "image": "myProfile.jpg"
     },
     "skills": {
       "icons": [

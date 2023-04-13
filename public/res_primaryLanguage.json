@@ -1,12 +1,12 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Sylvain Verdy. I'm working as a Phd Student at NXP, a gamer and a dj in my spare time. I'm working on Spoken Language Understanding. I work mainly on the task of detecting intentions from speech (Speech To Intent). I hope you will enjoy with my few demos. Let me know if you have any questions. Thank you 💜",
+      "description": "👋 I'm Sylvain Verdy. I'm working as a research engineer at Emvista, a gamer and a dj in my spare time. I'm working on Named Entity Recognition. I had worked mainly on the task of detecting intentions from speech (Speech To Intent). I hope you will enjoy with my few demos. Let me know if you have any questions. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
         "skills": "Skills",
-        "experience": "Experience"
+        "experience": "Experiences"
       }
     },
     "projects": [
@@ -77,9 +77,25 @@
     ],
     "experience": [
       {
+        "company": "EMVISTA",
+        "title": "NLP Research Engineer - CDI",
+        "years": "01.2023 - present",
+        "mainTech": [
+          "Research"
+        ],
+        "technologies": [
+          "Pytorch", "Flair", "DeepSpeed",
+          "Named Entity Recognition",
+          "Natural Language Processing",
+          "Neural Networks",
+          "Deep learning",
+          "Python", "Java"         
+        ]
+      },
+      {
         "company": "NXP",
-        "title": "Phd Student",
-        "years": "09.2021 - present",
+        "title": "Phd Student - CDD",
+        "years": "09.2021 - 11.2022",
         "mainTech": [
           "Research"
         ],
@@ -89,6 +105,22 @@
           "Spoken Language Understanding",
           "Neural Networks",
           "Deep learning"          
+        ]
+      },
+      {
+        "company": "Avignon University",
+        "title": "Research Engineer - CDD ",
+        "years": "09.2020 - 07.2021",
+        "mainTech": [
+          "Research"
+        ],
+        "technologies": [
+          "Speech Processing",
+          "Voice Activity Detection", 
+          "Deep learning",
+          "Pytorch",
+          "Slurm",
+          "Bash"
         ]
       },
       {
